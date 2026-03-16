@@ -1,4 +1,4 @@
-# 360_website
-Landing page for 360 pizzeria
+# 380_website
+Landing page for 380 pizzeria
 
 - npm run dev : expose local host
