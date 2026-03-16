@@ -20,4 +20,9 @@ export const pizzas: Pizza[] = [
     ingredients: "pomodoro, mozzarella, acciughe, olive, capperi",
     price: 7.50
   },
+  {
+    name: "Prosciutto",
+    ingredients: "pomodoro, mozzarella, prosciutto cotto",
+    price: 6.50
+  },
 ]
