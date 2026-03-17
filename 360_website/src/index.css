@@ -70,3 +70,7 @@ button:focus-visible {
 @import "tailwindcss";
 /* @source "../.flowbite-react/class-list.json"; */
 @import "flowbite-react/plugin/tailwindcss";
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
